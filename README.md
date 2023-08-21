@@ -20,5 +20,10 @@ Profile.io is a React Native base project that can run both in Android and IOS. 
 
 ### Installation
 1. Clone the repository :
-   ```
-   git clone
+   
+   ```bash
+   git clone https://github.com/TioNovriadiPutra/Profile.io-App.git
+2. Navigate to Profile :
+
+   ```bash
+   cd Profile
